@@ -57,8 +57,5 @@ It includes user authentication, protected routes, API integration, and advanced
 
 ---
 
-## 🔗 API Endpoints
-
-### Login API
-```http
-POST https://apis.ccbp.in/login
+## 🔗 Login Creds
+  -{ "username": "rahul", "password": "rahul@2021" }
